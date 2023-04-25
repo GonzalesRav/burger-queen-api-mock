@@ -68,8 +68,8 @@
     {
       "id": 1,
       "name": "Sandwich de jamón y queso",
-      "price": 5.50,
-      "image": "../1.png ",
+      "price": 5500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/1.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -77,96 +77,96 @@
     {
       "id": 2,
       "name": "Café americano",
-      "price": 2.30,
-      "image": "../2.png ",
+      "price": 2300,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/2.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 3,
       "name": "Agua 500ml",
-      "price": 1.00,
-      "image": "../3.png ",
+      "price": 1000,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/3.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 4,
       "name": "Jugo de frutas natural",
-      "price": 3.50,
-      "image": "../4.png ",
+      "price": 3500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/4.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 5,
       "name": "Café con leche",
-      "price": 3.00,
-      "image": "../5.png ",
+      "price": 3000,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/5.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 6,
       "name": "Sandwich de pollo",
-      "price": 6.50,
-      "image": "../6.png ",
+      "price": 6500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/6.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 7,
       "name": "Hamburguesa simple",
-      "price": 8.00,
-      "image": "../7.png ",
+      "price": 8000,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/7.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 8,
       "name": "Hamburguesa doble",
-      "price": 9.50,
-      "image": "../8.png ",
+      "price": 9500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/8.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 9,
       "name": "Papas fritas",
-      "price": 4.50,
-      "image": "../9.png ",
+      "price": 4500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/9.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 10,
       "name": "Aros de cebolla",
-      "price": 3.50,
-      "image": "../10.png ",
+      "price": 3500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/10.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 11,
       "name": "Agua 750ml",
-      "price": 1.50,
-      "image": "../11.png ",
+      "price": 1500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/11.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 12,
       "name": "Gaseosa 500ml",
-      "price": 2.00,
-      "image": "../12.png ",
+      "price": 2000,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/12.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 13,
       "name": "Gaseosa 750ml",
-      "price": 3.50,
-      "image": "../13.png ",
+      "price": 3500,
+      "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/13.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     }
