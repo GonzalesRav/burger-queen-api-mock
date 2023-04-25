@@ -165,12 +165,11 @@
     {
       "id": 13,
       "name": "Gaseosa 750ml",
-      "price": 3.00,
+      "price": 3.50,
       "image": "../13.png ",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     }
-
   ],
   "users": [
     {
