@@ -68,7 +68,7 @@
     {
       "id": 1,
       "name": "Sandwich de jamón y queso",
-      "price": 5.50,
+      "price": 2.22,
       "image": "../1.png ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -77,7 +77,7 @@
     {
       "id": 2,
       "name": "Café americano",
-      "price": 2.30,
+      "price": 1.33,
       "image": "../2.png ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -85,15 +85,15 @@
     {
       "id": 3,
       "name": "Agua 500ml",
-      "price": 1.00,
+      "price": 0.81,
       "image": "../3.png ",
-      "type": "Bebida",
+      "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 4,
       "name": "Jugo de frutas natural",
-      "price": 3.50,
+      "price": 1.78,
       "image": "../4.png ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -101,7 +101,7 @@
     {
       "id": 5,
       "name": "Café con leche",
-      "price": 3.00,
+      "price": 1.80,
       "image": "../5.png ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -109,7 +109,7 @@
     {
       "id": 6,
       "name": "Sandwich de pollo",
-      "price": 6.50,
+      "price": 2.80,
       "image": "../6.png ",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -117,7 +117,7 @@
     {
       "id": 7,
       "name": "Hamburguesa simple",
-      "price": 8.00,
+      "price": 4.00,
       "image": "../7.png ",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
@@ -125,7 +125,7 @@
     {
       "id": 8,
       "name": "Hamburguesa doble",
-      "price": 9.50,
+      "price": 4.70,
       "image": "../8.png ",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
@@ -133,7 +133,7 @@
     {
       "id": 9,
       "name": "Papas fritas",
-      "price": 4.50,
+      "price": 1.00,
       "image": "../9.png ",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
@@ -141,7 +141,7 @@
     {
       "id": 10,
       "name": "Aros de cebolla",
-      "price": 3.50,
+      "price": 1.00,
       "image": "../10.png ",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
@@ -149,25 +149,25 @@
     {
       "id": 11,
       "name": "Agua 750ml",
-      "price": 1.50,
+      "price": 1.00,
       "image": "../11.png ",
-      "type": "Bebida",
+      "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 12,
-      "name": "Gaseosa 500ml",
-      "price": 2.00,
+      "name": "Bebida/gaseosa 500ml",
+      "price": 0.76,
       "image": "../12.png ",
-      "type": "Bebida",
+      "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 13,
-      "name": "Gaseosa 750ml",
-      "price": 3.00,
+      "name": "Bebida/gaseosa 750ml",
+      "price": 1.00,
       "image": "../13.png ",
-      "type": "Bebida",
+      "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     }
 
