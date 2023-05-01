@@ -9,8 +9,8 @@
           "qty": 1,
           "product": {
             "id": 1,
-            "name": "Sandwich de jamón y queso",
-            "price": 1000,
+            "name": "Ham and cheese sandwich",
+            "price": 10,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
@@ -20,15 +20,15 @@
           "qty": 1,
           "product": {
             "id": 2,
-            "name": "Café americano",
-            "price": 500,
+            "name": "Americano coffee",
+            "price": 5,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
       ],
-      "status": "pending",
+      "status": "delivered",
       "dataEntry": "2022-03-05 15:00"
     },
     {
@@ -40,8 +40,8 @@
           "qty": 2,
           "product": {
             "id": 2,
-            "name": "Café americano",
-            "price": 500,
+            "name": "Americano coffee",
+            "price": 5,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
             "type": "Desayuno",
             "dateEntry": "2022-03-05 15:14:10"
@@ -51,8 +51,8 @@
           "qty": 1,
           "product": {
             "id": 3,
-            "name": "Agua 500ml",
-            "price": 500,
+            "name": "Water 500ml",
+            "price": 2,
             "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
             "type": "Almuerzo",
             "dateEntry": "2022-03-05 15:14:10"
@@ -62,183 +62,109 @@
       "status": "delivered",
       "dataEntry": "2022-03-05 15:00",
       "dateProcessed": "2022-03-05 16:00"
-    },
-    {
-      "id": 3
-    },
-    {
-      "client": "Harry Potter",
-      "products": [
-        {
-          "qty": 1,
-          "product": {
-            "id": 1,
-            "name": "Sandwich de jamón y queso",
-            "price": 1000,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "status": "pending",
-      "dataEntry": "2022-03-05 15:00",
-      "id": 4
-    },
-    {
-      "client": "Pinchi",
-      "status": "pending",
-      "dataEntry": "4/29/2023, 12:11:27 PM",
-      "products": [
-        {
-          "qty": 2,
-          "product": {
-            "id": 5,
-            "name": "Café con leche",
-            "price": 3000,
-            "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/5.png",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 1,
-          "product": {
-            "id": 7,
-            "name": "Hamburguesa simple",
-            "price": 8000,
-            "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/7.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        },
-        {
-          "qty": 3,
-          "product": {
-            "id": 8,
-            "name": "Hamburguesa doble",
-            "price": 9500,
-            "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/8.png",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
-          }
-        }
-      ],
-      "id": 5
     }
   ],
   "products": [
     {
       "id": 1,
-      "name": "Sandwich de jamón y queso",
-      "price": 5500,
+      "name": "Ham and cheese sandwich",
+      "price": 10,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/1.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 2,
-      "name": "Café americano",
-      "price": 2300,
+      "name": "Americano coffee",
+      "price": 5,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/2.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 3,
-      "name": "Agua 500ml",
-      "price": 1000,
+      "name": "Water 500ml",
+      "price": 2,
       "image": "https://raw.githubusercontent.com/angieli13/burger-queen-api-mock/main/resources/images/3.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 4,
-      "name": "Jugo de frutas natural",
-      "price": 3500,
+      "name": "Natural fruit juice",
+      "price": 9,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/4.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 5,
-      "name": "Café con leche",
-      "price": 3000,
+      "name": "Capuccino",
+      "price": 8,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/5.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 6,
-      "name": "Sandwich de pollo",
-      "price": 6500,
+      "name": "Chicken sandwich",
+      "price": 13,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/6.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 7,
-      "name": "Hamburguesa simple",
-      "price": 8000,
+      "name": "Burger",
+      "price": 13,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/7.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 8,
-      "name": "Hamburguesa doble",
-      "price": 9500,
+      "name": "Double burger",
+      "price": 15,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/8.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 9,
-      "name": "Papas fritas",
-      "price": 4500,
+      "name": "Fries",
+      "price": 5,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/9.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 10,
-      "name": "Aros de cebolla",
-      "price": 3500,
+      "name": "Onion rings",
+      "price": 6,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/10.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 11,
-      "name": "Agua 750ml",
-      "price": 1500,
+      "name": "Water 750ml",
+      "price": 3,
       "image": "https://raw.githubusercontent.com/angieli13/burger-queen-api-mock/main/resources/images/11.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 12,
-      "name": "Gaseosa 500ml",
-      "price": 2000,
+      "name": "Coke 500ml",
+      "price": 3,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/12.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
       "id": 13,
-      "name": "Gaseosa 750ml",
-      "price": 3500,
+      "name": "Coke 750ml",
+      "price": 4,
       "image": "https://raw.githubusercontent.com/GonzalesRav/burger-queen-api-mock/main/resources/images/13.png",
       "type": "Bebida",
       "dateEntry": "2022-03-05 15:14:10"
@@ -258,7 +184,7 @@
       "id": 2
     },
     {
-      "email": "chefcito.420@systers.xyz",
+      "email": "master.cuisine@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "cheff",
       "id": 3
